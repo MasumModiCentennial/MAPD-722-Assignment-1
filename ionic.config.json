@@ -1,5 +1,7 @@
 {
   "name": "PayCalculator",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
